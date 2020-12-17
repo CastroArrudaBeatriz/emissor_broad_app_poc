@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">emissor_broad_app_poc</string>
+    <string name="enviar_broadcast_receiver">Enviar broadcast receiver</string>
+</resources>
